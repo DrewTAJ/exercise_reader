@@ -1,1 +1,1 @@
-A quick porject I made to make sifting through the contents of workout.json much easier.
+A quick project I made to sifting through the contents of workout.json much easier.
